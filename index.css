@@ -359,7 +359,7 @@ font-family: 'Roboto', sans-serif;
     /* background-image: url('./images/aboutUsPic.jpeg'); */
     background-position: center;
     background-size: cover;
-    opacity: .75;
+    /* opacity: .75; */
     position: relative;
     overflow: hidden;
 }
@@ -460,7 +460,7 @@ background-repeat: no-repeat;
 .gt p {
     font-size: 17px;
     padding-left: 10px;
-    color: #dc2626;
+    color: white;
 }
 
 
