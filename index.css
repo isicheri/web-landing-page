@@ -432,6 +432,32 @@ background-repeat: no-repeat;
     flex-wrap: wrap;
 }
 
+.mySwiper {
+    max-width: 1200px;
+    width: 100%;
+    padding: 40px 0;
+  }
+
+  .container {
+    margin: 0 40px;
+    overflow: hidden;
+  }
+
+  .swiper-slide {
+    font-size: 18px;
+    width: 30%;
+  }
+
+  .swiper-pagination-bullet {
+    height: 9px;
+    width: 9;
+    
+  }
+  
+  .bl {
+    object-fit: cover;
+  }
+
 .maindiv {
     height: 400px;
     width: 30%;
